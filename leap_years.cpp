@@ -1,8 +1,5 @@
-#define YEAR_MIN 1900
-#define YEAR_MAX 2200
-
-#define P_OK 0
-#define P_ERR_RANGE -10
+#define YEAR_MIN 1800
+#define YEAR_MAX 2400
 
 #include <iostream>
 
